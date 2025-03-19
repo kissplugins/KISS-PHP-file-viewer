@@ -16,7 +16,7 @@ PHP File Scanner is a simple WordPress plugin that displays the content of a def
 1. Upload the plugin files to the `/wp-content/plugins/php-file-scanner` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the **Plugins** screen in WordPress.
 3. Navigate to **PHP File Scanner** under the admin menu to set the relative path of the PHP file you wish to display.
-4. Use the `[file_scanner]` shortcode in your posts or pages to display the file contents.
+4. Use the `[file_scanner]` **shortcode** in your posts or pages to display the file contents.
 
 ## Frequently Asked Questions
 
