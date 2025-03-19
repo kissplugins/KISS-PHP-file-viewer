@@ -4,7 +4,7 @@
 **Tags:** php, file, scanner, code viewer, plugin  
 **Requires at least:** WordPress 5.0  
 **Tested up to:** WordPress 6.2  
-**Stable tag:** 1.3  
+**Stable tag:** 1.4
 **License:** GPLv2 ([GNU GPL v2 License](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html))
 
 ## Description
