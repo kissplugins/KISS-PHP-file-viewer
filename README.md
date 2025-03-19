@@ -30,6 +30,9 @@ The plugin is intended for PHP files only. Ensure that the file exists and that 
 
 ## Changelog
 
+### 1.4
+- Added CPT support
+
 ### 1.3
 - Updated license to GNU GPL v2.
 - Changed author information to **KISS Plugins**.
