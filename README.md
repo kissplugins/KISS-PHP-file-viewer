@@ -1,4 +1,4 @@
-# PHP File Scanner
+# PHP File Viewer
 
 **Contributors:** kissplugins  
 **Tags:** php, file, scanner, code viewer, plugin  
