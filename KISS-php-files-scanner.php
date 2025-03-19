@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: PHP File Scanner
+ * Plugin Name: KISS PHP File Scanner
  * Description: Displays the contents of a defined PHP file (configured in WP admin) within a code viewing container.
  * Version: 1.3
  * Author: KISS Plugins
