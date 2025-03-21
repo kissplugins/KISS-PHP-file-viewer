@@ -22,7 +22,7 @@ PHP File Scanner is a simple WordPress plugin that displays the content of a def
 
 ### How do I set the file path?
 
-Enter the file path relative to your WordPress installation in the plugin settings page (e.g., `wp-content/plugins/php-file-scanner/test.php`).
+Enter the file path relative to your WordPress installation in the plugin settings page (e.g., `wp-content/plugins/kiss-php-file-scanner/kiss-php-file-scanner.php`).
 
 ### Can I use this plugin to display any file?
 
