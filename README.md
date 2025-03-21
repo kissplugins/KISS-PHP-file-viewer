@@ -1,19 +1,19 @@
-# PHP File Viewer
+# KISS PHP File Viewer
 
 **Contributors:** kissplugins  
 **Tags:** php, file, scanner, code viewer, plugin  
 **Requires at least:** WordPress 5.0  
 **Tested up to:** WordPress 6.2  
-**Stable tag:** 1.4
+**Stable tag:** 1.3  
 **License:** GPLv2 ([GNU GPL v2 License](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html))
 
 ## Description
 
 PHP File Scanner is a simple WordPress plugin that displays the content of a defined PHP file within a code viewing container. The file path can be configured from the admin settings page. It is particularly useful for developers and administrators who need to review code snippets or debug file contents directly from the dashboard.
 
-## Installation
+## Installation & Shortcode
 
-1. Upload the plugin files to the `/wp-content/plugins/php-file-scanner` directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files through the WordPress plugins screen directly.
 2. Activate the plugin through the **Plugins** screen in WordPress.
 3. Navigate to **PHP File Scanner** under the admin menu to set the relative path of the PHP file you wish to display.
 4. Use the `[file_scanner]` **shortcode** in your posts or pages to display the file contents.
